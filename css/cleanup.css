@@ -10,4 +10,8 @@
   display: none;
 }
 
-#wall .parent
+#wall .parent #tag-5 {
+  display: none;
+}
+
+#wall 
